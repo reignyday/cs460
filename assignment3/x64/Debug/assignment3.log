@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(57,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(57,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(57,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(58,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(58,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(58,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(59,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(59,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(59,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(118,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(118,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\SUNYloaner\source\repos\assignment3\main.cpp(181,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  assignment3.vcxproj -> C:\Users\SUNYloaner\source\repos\assignment3\x64\Debug\assignment3.exe
+          1 file(s) copied.
