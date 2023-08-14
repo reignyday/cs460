@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\SUNYloaner\source\repos\keyframe\Source.cpp(11,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SUNYloaner\source\repos\keyframe\Source.cpp(31,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SUNYloaner\source\repos\keyframe\Source.cpp(31,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SUNYloaner\source\repos\keyframe\Source.cpp(61,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  keyframe.vcxproj -> C:\Users\SUNYloaner\source\repos\keyframe\x64\Debug\keyframe.exe
+          1 file(s) copied.
